@@ -1,14 +1,6 @@
 🌱 Soil Analysis & Crop Recommendation using ANN
 The project is about forecasting the best-suited crop from soil and environmental factors by employing an Artificial Neural Network (ANN) model. It's a data science solution to help farmers and agronomists take appropriate decisions for enhancing productivity and sustainable agriculture.
 
-📁 Project Structure
-
-```bash
-📦 Soil_Analysis_And_Crop_Recommendation_Using_Artificial_Neural_Networks
-┣ 📔 Soil_analysis_using_ann.ipynb # Jupyter notebook with full implementation
-┣ 📊 Crop_recommendation.csv # (If applicable) Dataset used (sourced from Kaggle)
-┗ 📄 README.md # Project documentation
-
 📌 Problem Statement
 
 Predict the best crop to plant, given a set of "climatic and soil features". The intention is to aid in optimizing yield and minimizing the risk of bad harvest from crop-soil incompatibility.
@@ -82,4 +74,5 @@ To run this notebook:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+
 
